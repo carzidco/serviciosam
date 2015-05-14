@@ -1,0 +1,9 @@
+[09-Nov-2014 12:26:45 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home5/servicr5/public_html/primero/maintenance/classes/DAL/class.database.php on line 7
+[09-Nov-2014 12:26:52 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home5/servicr5/public_html/primero/maintenance/classes/DAL/class.database.php on line 7
+[09-Nov-2014 14:00:38 America/Denver] PHP Parse error:  syntax error, unexpected '"' in /home5/servicr5/public_html/primero/maintenance/classes/DAL/class.database.php on line 8
+[26-Nov-2014 22:58:38 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home5/servicr5/public_html/primero/maintenance/classes/Product.php on line 63
+[26-Nov-2014 22:58:43 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home5/servicr5/public_html/primero/maintenance/classes/Product.php on line 63
+[26-Nov-2014 22:58:46 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home5/servicr5/public_html/primero/maintenance/classes/Product.php on line 63
+[26-Nov-2014 22:59:03 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home5/servicr5/public_html/primero/maintenance/classes/Product.php on line 63
+[26-Nov-2014 23:00:34 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home5/servicr5/public_html/primero/maintenance/classes/Product.php on line 63
+[26-Nov-2014 23:01:04 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home5/servicr5/public_html/primero/maintenance/classes/Product.php on line 63
