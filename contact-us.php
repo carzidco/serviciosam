@@ -133,7 +133,7 @@
         </div>
     </section>  <!--/gmap_area -->
 
-    <!--<section id="contact-page">
+    <section id="contact-page">
         <div class="container">
             <div class="center">        
                 <h2>Envianos un mensaje</h2>
@@ -173,7 +173,7 @@
                 </form> 
             </div>
         </div>
-    </section>-->
+    </section>
 
     <!--<section id="bottom">
         <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
